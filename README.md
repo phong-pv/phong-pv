@@ -1,5 +1,5 @@
 ### Hi there 👋 ㅇㅅㅇ   =^_^=
-Happy codung!!!
+Happy coding!!!
 <!--
 **ThanhPhongIT/ThanhPhongIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
