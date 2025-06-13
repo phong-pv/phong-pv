@@ -33,13 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phong-pv&show_icons=true&theme=github_dark" alt="phong-pv" />
-</p>
-
----
 
 ### 🔗 Contact Me
 
