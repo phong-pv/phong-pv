@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-- 💻  Fullstack Developer delivering production-ready systems from frontend UI to backend APIs and cloud deployment.
+- 💻  Fullstack Developer with hands-on experience across frontend, backend, mobile app, game development and cloud infrastructure.
 - ⚙️  Love automating things, building SaaS, and designing scalable backend systems.
 - 🌱  Currently expanding my expertise in AWS Solution Architecture.
 - 📚  Always curious about emerging tech stacks and optimization patterns.
