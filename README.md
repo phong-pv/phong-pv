@@ -5,7 +5,7 @@
 🌏 Based in Hanoi, Vietnam  
 🎯 Passion: Turning business ideas into working products with scalable, maintainable code.
 
-💼 Experience with: JavaScript | TypeScript | Python | Node.js | Flutter | Vue.js | React.js | AWS | SQL & NoSQL
+💼 Experience with: JavaScript | TypeScript | Python | Node.js | Flutter | Vue.js | React.js | Angular | AWS | SQL & NoSQL | Unity
 
 ---
 
@@ -29,6 +29,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
