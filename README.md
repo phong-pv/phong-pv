@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Phong!
 
-🚀 Fullstack Developer | Solution Architect Wannabe | Technology Enthusiast | Freelancer
+🚀 Fullstack Developer | Freelancer | Solution Architect Wannabe | Technology Enthusiast
 
 🌏 Based in Hanoi, Vietnam  
 🎯 Passion: Turning business ideas into working products with scalable, maintainable code.
