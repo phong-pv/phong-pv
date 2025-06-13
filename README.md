@@ -4,6 +4,7 @@
 
 🌏 Based in Hanoi, Vietnam  
 🎯 Passion: Turning business ideas into working products with scalable, maintainable code.
+
 💼 Experience with: JavaScript | TypeScript | Python | Node.js | Flutter | Vue.js | React.js | AWS | SQL & NoSQL
 
 ---
